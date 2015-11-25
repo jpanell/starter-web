@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jpanell     blabla@blabla.com   blabla
 
 # THANKS
 
