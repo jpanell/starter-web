@@ -1,7 +1,9 @@
 # Starter Web Repo
 
-##Inotruction
+##Intruduction
 
 ##Purpose
+
+##Deployment
 
 ##How to contribute
