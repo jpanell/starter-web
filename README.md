@@ -19,6 +19,8 @@ that I want to put here
 
 ##How to contribute
 
+Please fork this repository and then...
+
 ##Copyright
 
 2014 Git Training.
