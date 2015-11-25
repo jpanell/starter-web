@@ -18,3 +18,7 @@ This is some more text
 that I want to put here
 
 ##How to contribute
+
+##Copyright
+
+2014 Git Training.
