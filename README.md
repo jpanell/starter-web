@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This is a simple website project to
-show the use of...
+show the use of... Adding some more test for rebase example.
 
 ##Intruduction
 
